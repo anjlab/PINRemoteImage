@@ -5,6 +5,9 @@ framework module PINRemoteImage {
     header "FLAnimatedImageView+PINRemoteImage.h"
     header "PINButton+PINRemoteImage.h"
     header "PINImageView+PINRemoteImage.h"
+    header "NSData+ImageDetectors.h"
+    header "PINImage+DecodedImage.h"
+    header "PINImage+WebP.h"
 
     export *
 }
